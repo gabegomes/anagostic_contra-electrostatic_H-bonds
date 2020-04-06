@@ -8,3 +8,6 @@ For more information, please read our paper on [ChemRxiv](https://chemrxiv.org/)
 * **Coordinates in .xyz format**
     * data/...: coordinates of all CH4-Metal-NHC complexes.
     * data/...: coordinates of full systems.
+
+
+![Image of the TOC for the paper](images/toc.png)
