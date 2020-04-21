@@ -1,6 +1,6 @@
-# Welcome to "Mapping coordination space for the C-H•••M interactions in (α-ICyDMe)Au, Ag, Cu complexes reveals “contra-electrostatic H-bonds” masquerading as anagostic interactions"
+# Welcome to "Mapping the coordination space for C-H•••M interactions in confined spaces: (α-ICyDMe)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions"
 
-This is a simple repository for the geometries (xyz files) from the paper "Mapping coordination space for the C-H•••M interactions in (α-ICyDMe)Au, Ag, Cu complexes reveals “contra-electrostatic H-bonds” masquerading as anagostic interactions".
+This is a simple repository for the geometries (xyz files) from the paper "Mapping the coordination space for C-H•••M interactions in confined spaces: (α-ICyDMe)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions".
 
 For more information, please read our paper on [ChemRxiv](https://chemrxiv.org/).
 
