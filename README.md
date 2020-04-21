@@ -4,7 +4,7 @@
 
 This is a simple repository for the geometries (xyz files) from the paper "Mapping the coordination space for C-H•••M interactions in confined spaces: (α-ICyDMe)Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic interactions".
 
-For more information, please read our paper on [ChemRxiv](https://chemrxiv.org/).
+For more informations, please read our paper on _[ChemRxiv](https://chemrxiv.org/)_: doi: 10.xxxyyyzzz(https://chemrxiv.org/)
 
 ## Data
 * **Geometry coordinates in .xyz format**
