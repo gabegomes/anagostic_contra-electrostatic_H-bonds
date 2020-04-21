@@ -10,9 +10,9 @@ For more informations, please read our paper on _[ChemRxiv](https://chemrxiv.org
 * **Geometry coordinates in .xyz format**
     * SI_data/H3C-H_M-NHC_systems: coordinates of all CH4-Metal-NHC complexes.
     * SI_data/full_systems: coordinates of full systems.
-
 * **X-Ray coordinates .cif and .xyz formats**
     * SI_data/X-ray-CIFs: .cif and .xyz coordinates for representative complexes.
+* **NMR of the complexes**
 
 ## Contact
 For other questions or requests, please send an email to gabriel.gomes[at]utoronto.ca.
